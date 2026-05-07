@@ -15,38 +15,17 @@ https://github.com/gatukusimon6-stack/turbo-waffle.git
 
 ---
 
-## BDD (Behavior Driven Development)
-Input	                  Output
+## Pages
+-Home
 
-Valid date + male    =  	Male Akan name
+-About
 
-Valid date + female	 =   Female Akan name
+-Contact
 
-Invalid date	        =   Alert message
+-Projects
 
 ---
 
 ## Technologies Used
 - HTML5
 - CSS3
-- Javascript
-
----
-
-## License and Copyright
-This project is for education purposes only.
-
-© 2026 Simon Gatuku. All Rights Reserved.
-
-
----
-
-## Contact
-For any questions, reach out via GitHub:
-https://github.com/gatukusimon6-stack
-
-
-
-
-
-
