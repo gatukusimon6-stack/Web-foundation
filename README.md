@@ -1,4 +1,4 @@
-# Week {01}: {Web Foundations - Portfolio Site}
+# Week {02}: {CSS Mastery - Responsive Portfolio}
 
 ---
 
